@@ -1,0 +1,56 @@
+# Agencija Stanova
+
+Ovaj projekt predstavlja konzolnu aplikaciju za upravljanje stanovima i obračunavanje najma stanova u agenciji "Stan".
+
+## Sadržaj
+
+- [Opis Projekta](#opis-projekta)
+- [Instalacija](#instalacija)
+- [Korištenje](#korištenje)
+- [Struktura koda](#struktura-koda)
+- [Testiranje](#testiranje)
+- [Doprinosi](#Doprinosi)
+
+## Opis projekta
+
+Projekt implementira agenciju za nekretnine koja omogućava:
+- Evidenciju stanova (namještenih i nenamještenih)
+- Mjesečni obračun najma stana na osnovu unesenih podataka
+
+Stanovi mogu biti:
+- **Namješteni:** s ukupnom vrijednošću namještaja i brojem kućanskih aparata
+- **Nenamješteni** 
+
+Obračun najma se vrši na osnovu lokacije, površine stana i dodatnih pogodnosti kao što su namještaj iinternet konekcija.
+
+## Instalacija
+
+1. Klonirajte repozitorij:
+   ```sh
+2. Uđite u direktorij projekta:
+   cd AgencijaStanova
+3. Pokrenite projekt:
+   dotnet run
+
+## Korištenje
+
+## Struktura koda
+
+- 'Program.cs': glavna ulazna tačka aplikacije
+- 'Stan.cs': Klasa koja definiše opće karakteristike stana
+- 'NamjestenStan.cs': klasa koja nasljeđuje klasu 'Stan' i dodaje karakteristike namještenog stana.
+- 'NenamještenStan.cs': Klasa koja nasjeđuje klasu 'Stan' i dodaje karakteristike nenamještenog stana
+- 'LuksuzniApartman.cs': Klasa koja nasjeđuje klasu 'Stan' i dodaje karakteristike luksuznog apartmana 
+- 'Agencija.cs': Klasa koja upravlja kolekcijom stanova i obračunava najam
+- 'Osoblje.cs': Osnovna klasa za osoblje (Kuhar, Vrtlar, Batler)
+
+
+
+## Testiranje
+Unit testove možete pokrenuti sa sljedećom komandom
+
+## Doprinosi
+Dobrodošli su svi doprinosi! Slobodno otvorite pull request ili prijavite problem.
+
+
+
