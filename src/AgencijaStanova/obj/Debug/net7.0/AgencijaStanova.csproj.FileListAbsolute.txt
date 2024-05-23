@@ -1,0 +1,15 @@
+/home/fatuli/Desktop/TS/TS-Zadaca-1/TestiranjeSoftvera-Agencija/src/AgencijaStanova/bin/Debug/net7.0/AgencijaStanova
+/home/fatuli/Desktop/TS/TS-Zadaca-1/TestiranjeSoftvera-Agencija/src/AgencijaStanova/bin/Debug/net7.0/AgencijaStanova.deps.json
+/home/fatuli/Desktop/TS/TS-Zadaca-1/TestiranjeSoftvera-Agencija/src/AgencijaStanova/bin/Debug/net7.0/AgencijaStanova.runtimeconfig.json
+/home/fatuli/Desktop/TS/TS-Zadaca-1/TestiranjeSoftvera-Agencija/src/AgencijaStanova/bin/Debug/net7.0/AgencijaStanova.dll
+/home/fatuli/Desktop/TS/TS-Zadaca-1/TestiranjeSoftvera-Agencija/src/AgencijaStanova/bin/Debug/net7.0/AgencijaStanova.pdb
+/home/fatuli/Desktop/TS/TS-Zadaca-1/TestiranjeSoftvera-Agencija/src/AgencijaStanova/obj/Debug/net7.0/AgencijaStanova.csproj.AssemblyReference.cache
+/home/fatuli/Desktop/TS/TS-Zadaca-1/TestiranjeSoftvera-Agencija/src/AgencijaStanova/obj/Debug/net7.0/AgencijaStanova.GeneratedMSBuildEditorConfig.editorconfig
+/home/fatuli/Desktop/TS/TS-Zadaca-1/TestiranjeSoftvera-Agencija/src/AgencijaStanova/obj/Debug/net7.0/AgencijaStanova.AssemblyInfoInputs.cache
+/home/fatuli/Desktop/TS/TS-Zadaca-1/TestiranjeSoftvera-Agencija/src/AgencijaStanova/obj/Debug/net7.0/AgencijaStanova.AssemblyInfo.cs
+/home/fatuli/Desktop/TS/TS-Zadaca-1/TestiranjeSoftvera-Agencija/src/AgencijaStanova/obj/Debug/net7.0/AgencijaStanova.csproj.CoreCompileInputs.cache
+/home/fatuli/Desktop/TS/TS-Zadaca-1/TestiranjeSoftvera-Agencija/src/AgencijaStanova/obj/Debug/net7.0/AgencijaStanova.dll
+/home/fatuli/Desktop/TS/TS-Zadaca-1/TestiranjeSoftvera-Agencija/src/AgencijaStanova/obj/Debug/net7.0/refint/AgencijaStanova.dll
+/home/fatuli/Desktop/TS/TS-Zadaca-1/TestiranjeSoftvera-Agencija/src/AgencijaStanova/obj/Debug/net7.0/AgencijaStanova.pdb
+/home/fatuli/Desktop/TS/TS-Zadaca-1/TestiranjeSoftvera-Agencija/src/AgencijaStanova/obj/Debug/net7.0/AgencijaStanova.genruntimeconfig.cache
+/home/fatuli/Desktop/TS/TS-Zadaca-1/TestiranjeSoftvera-Agencija/src/AgencijaStanova/obj/Debug/net7.0/ref/AgencijaStanova.dll
