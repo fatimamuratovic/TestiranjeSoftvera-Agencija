@@ -1,0 +1,22 @@
+# Ignore build outputs
+src/bin/
+src/obj/
+
+# Ignore user-specific files
+*.user
+*.rsuser
+*.suo
+
+# Ignore other unnecessary files
+*.pdb
+*.log
+*.lock.json
+*.xml
+*.vspscc
+*.vssscc
+.vscode/
+.idea/
+.vscode/
+
+# Ignore test results
+TestResults/
